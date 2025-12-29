@@ -167,3 +167,21 @@ nav ul li a:hover {
     text-shadow: 0 0 10px #ff0033;
 }
 
+.download-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: 2px solid #ff0033;
+    border-radius: 8px;
+    color: #ff0033;
+    text-decoration: none;
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+.download-btn:hover {
+    background: #ff0033;
+    color: #000;
+    box-shadow: 0 0 15px #ff0033;
+}
+
